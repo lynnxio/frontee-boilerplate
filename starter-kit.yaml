@@ -1,0 +1,12 @@
+export_paths:
+  - content
+  - config/filesystems.php
+  - config/statamic/assets.php
+  - resources/blueprints
+  - resources/sass
+  - resources/ts
+  - resources/views
+  - public/assets
+  - public/css
+  - package.json
+  - webpack.mix.js

@@ -1,0 +1,9 @@
+{
+    "name": "lynnxio/frontee-boilerplate",
+    "extra": {
+        "statamic": {
+            "name": "Frontee Boilerplate",
+            "description": "Frontee Boilerplate starter kit"
+        }
+    }
+}
