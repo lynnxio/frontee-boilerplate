@@ -10,3 +10,6 @@ export_paths:
   - public/css
   - package.json
   - webpack.mix.js
+  - tsconfig.json
+  - docker-compose.yml
+  - .stylelintrc.json
